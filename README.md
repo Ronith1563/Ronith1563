@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ronith1563
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning some programming languages like c and java..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning some programming languages like python, HTML, JScriot, CSS, Java, SQL..
+- 💞️ I’m looking to collaborate on Image Processing and machine learning related projects...
 - 📫 How to reach me through my contact no. 7780160761, and through my email ronithrock.1563@gmail.com
 
 <!---
